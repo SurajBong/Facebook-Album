@@ -1,0 +1,5 @@
+export const GET_USER_PROFILE = "GET_USER_PROFILE";
+export const SET_PROFILE_PHOTO = "SET_PROFILE_PHOTO";
+export const SET_ALBUMS = "SET_ALBUMS";
+export const SET_LOGGED_USER = "SET_LOGGED_USER";
+export const GET_ALBUM_PHOTOS = "GET_ALBUM_PHOTOS"
